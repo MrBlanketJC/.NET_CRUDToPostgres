@@ -1,0 +1,15 @@
+﻿Iniciar
+
+
+1. Agregar la referencia de PostgreSQL a la Capa de Acceso a Datos - CAD
+- Usar el packcage de Nuget
+- Buscar a istalar Npgsql en mi caso se instalo la version: 7.0.6
+
+2. Crear bibliotecla de clases, CAD, CAE, CAM
+3. Referenciar
+CAD: CAE
+CAE: S/N
+CAM: CAD, CAE
+Proyecto: CAE, CAM
+
+2. Crear Clase ConexionToPostgreSQL y empezar la programacion

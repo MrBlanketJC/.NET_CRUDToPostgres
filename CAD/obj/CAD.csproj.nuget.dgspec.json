@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAD\\CAD.csproj": {}
+  },
+  "projects": {
+    "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAD\\CAD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAD\\CAD.csproj",
+        "projectName": "CAD",
+        "projectPath": "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAD\\CAD.csproj",
+        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
+        "outputPath": "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAD\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAE\\CAE.csproj": {
+                "projectPath": "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAE\\CAE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAE\\CAE.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAE\\CAE.csproj",
+        "projectName": "CAE",
+        "projectPath": "D:\\Developments\\VS\\2022\\.NET_CRUDToPostgres\\CAE\\CAE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

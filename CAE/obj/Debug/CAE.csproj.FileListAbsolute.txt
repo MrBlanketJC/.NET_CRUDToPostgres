@@ -1,0 +1,6 @@
+D:\Developments\VS\2022\.NET_CRUDToPostgres\CAE\bin\Debug\CAE.dll
+D:\Developments\VS\2022\.NET_CRUDToPostgres\CAE\bin\Debug\CAE.pdb
+D:\Developments\VS\2022\.NET_CRUDToPostgres\CAE\obj\Debug\CAE.csproj.AssemblyReference.cache
+D:\Developments\VS\2022\.NET_CRUDToPostgres\CAE\obj\Debug\CAE.csproj.CoreCompileInputs.cache
+D:\Developments\VS\2022\.NET_CRUDToPostgres\CAE\obj\Debug\CAE.dll
+D:\Developments\VS\2022\.NET_CRUDToPostgres\CAE\obj\Debug\CAE.pdb
