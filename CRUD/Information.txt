@@ -13,3 +13,7 @@ CAM: CAD, CAE
 Proyecto: CAE, CAM
 
 2. Crear Clase ConexionToPostgreSQL y empezar la programacion
+
+
+OJO:
+PostgreSQL SI distingue mayusculas y minusculas, para la busqueda y el filtrado se uso ILIKE para solucionar esto

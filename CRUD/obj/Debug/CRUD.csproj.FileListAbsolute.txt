@@ -31,3 +31,4 @@ D:\Developments\VS\2022\.NET_CRUDToPostgres\CRUD\obj\Debug\CRUD.csproj.CoreCompi
 D:\Developments\VS\2022\.NET_CRUDToPostgres\CRUD\obj\Debug\CRUD.csproj.CopyComplete
 D:\Developments\VS\2022\.NET_CRUDToPostgres\CRUD\obj\Debug\CRUD.exe
 D:\Developments\VS\2022\.NET_CRUDToPostgres\CRUD\obj\Debug\CRUD.pdb
+D:\Developments\VS\2022\.NET_CRUDToPostgres\CRUD\obj\Debug\CRUD.frmEmployeeNew.resources
