@@ -3,7 +3,7 @@ CRUD  C# Application with PostgreSQL DB
 CRUD Aplicación C# con base de datos PostgreSQL
 
 ## Framework
-- .NET
+- .NET 7.4.2
 
 ## Notes / Notas
 - Architectura en N capas
