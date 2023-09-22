@@ -1,6 +1,6 @@
 # .NET_CRUDToPostgres
-CRUD  C# Application with PostgreSQL DB
-CRUD Aplicación C# con base de datos PostgreSQL
+CRUD C# Application in Desktop with PostgreSQL DB
+CRUD Aplicación C# en escritorio con Base de Datos PostgreSQL
 
 ## Framework
 - .NET 7.4.2
@@ -9,6 +9,7 @@ CRUD Aplicación C# con base de datos PostgreSQL
 - Architectura en N capas
 - Conexion a la DB
 - Formulario de CRUD en Desktop
+- Usa NpgSQL libreria descargable desde Package NuGet
 
 ## Tools / Herramientas
 - VS 2022
